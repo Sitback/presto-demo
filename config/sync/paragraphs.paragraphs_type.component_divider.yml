@@ -1,0 +1,9 @@
+uuid: b99e22c2-87ed-4749-a46c-6606a8a51b57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HdpYV1aJb6egNZ5Xf-wHnj6o7fGfqkWIbLL6zO2L-XM
+id: component_divider
+label: 'Component: Divider'
+behavior_plugins: {  }

@@ -1,0 +1,12 @@
+uuid: fb145f69-2cb4-4408-8571-b21a106b369d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gl90u51HQraGkI9R4X-_YaZXENdLe8QBa95H3BozQ44
+id: ebook
+label: eBook
+description: 'eBooks are delivered digitally to customers and may have different tax rules.'
+variationType: ebook
+injectVariationFields: true
+traits: {  }

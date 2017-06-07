@@ -1,0 +1,32 @@
+uuid: db442d62-3348-4967-9b18-585c9228686a
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.slick
+    - field.field.media.image.field_image
+    - image.style.carousel_focal_point_wide
+    - media_entity.bundle.image
+  module:
+    - image
+_core:
+  default_config_hash: DdHrTVOxaILdEpQDqNvpyMWqGB2eB3oW9RsRH8yJV2M
+id: media.image.slick
+targetEntityType: media
+bundle: image
+mode: slick
+content:
+  field_image:
+    weight: 0
+    label: hidden
+    settings:
+      image_style: carousel_focal_point_wide
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+hidden:
+  created: true
+  name: true
+  thumbnail: true
+  uid: true

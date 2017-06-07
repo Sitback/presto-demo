@@ -1,0 +1,24 @@
+uuid: f165c801-7650-429f-9872-79c6d20b588c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_block
+    - paragraphs.paragraphs_type.component_block
+  module:
+    - block_field
+_core:
+  default_config_hash: Tw7qH0VJYlY860EntaTsrepLMThcnT-VxeX9wfLkws4
+id: paragraph.component_block.field_block
+field_name: field_block
+entity_type: paragraph
+bundle: component_block
+label: Block
+description: 'Select an existing custom block to embed.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  plugin_ids: {  }
+field_type: block_field

@@ -1,0 +1,18 @@
+uuid: 0a930f05-6296-4245-af2b-aac56e80e5b6
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+_core:
+  default_config_hash: pldhfVPjt9_7A8SpORHz899vzpPitNiHS1Boqun2tF0
+name: media_browser
+label: 'Media Browser'
+effects:
+  1a4838b9-74df-4dab-b351-59538d3b34e4:
+    uuid: 1a4838b9-74df-4dab-b351-59538d3b34e4
+    id: focal_point_scale_and_crop
+    weight: 2
+    data:
+      width: 100
+      height: 100

@@ -1,0 +1,12 @@
+uuid: 2a07b085-c7a4-40fd-a428-14c3d2828438
+langcode: en
+status: true
+dependencies:
+  module:
+    - media_entity
+_core:
+  default_config_hash: CHWM6nhcISuuGHl2eZddQf5leXqIn3yqgcee0-ZWLzY
+id: media.icon_box
+label: 'Icon Box'
+targetEntityType: media
+cache: true

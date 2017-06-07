@@ -1,0 +1,22 @@
+uuid: c97a3ec9-49dc-46b5-96d7-16ebf4223aea
+langcode: en
+status: true
+dependencies:
+  module:
+    - crop
+    - media_entity_image
+third_party_settings:
+  crop:
+    image_field: field_image
+_core:
+  default_config_hash: YGjcW-QvcTjo0llcXuc70WS7GCMLRjnep6IY3-n2SQA
+id: image
+label: Image
+description: 'Locally hosted image media.'
+type: image
+queue_thumbnail_downloads: false
+new_revision: false
+type_configuration:
+  source_field: field_image
+  gather_exif: false
+field_map: {  }

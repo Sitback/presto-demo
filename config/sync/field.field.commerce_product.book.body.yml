@@ -1,0 +1,24 @@
+uuid: 8754f039-4819-4742-b9bb-e5d996979077
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.book
+    - field.storage.commerce_product.body
+  module:
+    - text
+_core:
+  default_config_hash: VEX56WEPMNVwvB30I__NIQX07fR1irujEwHO5NpO5vI
+id: commerce_product.book.body
+field_name: body
+entity_type: commerce_product
+bundle: book
+label: Body
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: null
+settings:
+  display_summary: false
+field_type: text_with_summary

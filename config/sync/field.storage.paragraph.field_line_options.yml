@@ -1,0 +1,32 @@
+uuid: b113a88f-c6d8-4137-8a7b-a0d285c5ec7d
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+_core:
+  default_config_hash: LWZMAFxdnIRDe-mgkmQq1GI1_khZHCaDM2_RrXI_zjY
+id: paragraph.field_line_options
+field_name: field_line_options
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: standard
+      label: Standard
+    -
+      value: thin
+      label: Thin
+    -
+      value: dotted
+      label: Dotted
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

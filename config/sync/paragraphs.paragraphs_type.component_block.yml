@@ -1,0 +1,9 @@
+uuid: cbfa5319-2048-4a54-a748-6d2175635ab3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xj4qTSN8PjhhxPbyAJRMSO-mK0TURK81zsOKHk7BAbg
+id: component_block
+label: 'Component: Block'
+behavior_plugins: {  }

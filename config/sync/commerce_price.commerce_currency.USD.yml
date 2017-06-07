@@ -1,0 +1,11 @@
+uuid: c904bf92-55df-458a-a8ca-f67ab5ac3803
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: syfTlw5rLHfIqUNVoAOYau_BeJ4TTihy9WPghEm4xVg
+currencyCode: USD
+name: 'US Dollar'
+numericCode: '840'
+symbol: $
+fractionDigits: 2

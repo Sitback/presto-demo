@@ -1,0 +1,9 @@
+uuid: 41227bf0-1046-4422-9f9d-cc897f41011a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lXzDOfOmUK7HCIKRy1DUzrD18KVdAaJ0Yez4ne1abLE
+id: component_slideshow
+label: 'Component: Slideshow'
+behavior_plugins: {  }

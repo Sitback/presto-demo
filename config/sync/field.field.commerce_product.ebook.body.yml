@@ -1,0 +1,24 @@
+uuid: 48776fd6-064e-437d-b5ac-bd5bdbfc6beb
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.ebook
+    - field.storage.commerce_product.body
+  module:
+    - text
+_core:
+  default_config_hash: gXkMoqKS57OXzMn0E54Sg6_sGzWAzddQN2y3SJmZcfE
+id: commerce_product.ebook.body
+field_name: body
+entity_type: commerce_product
+bundle: ebook
+label: Body
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: null
+settings:
+  display_summary: false
+field_type: text_with_summary

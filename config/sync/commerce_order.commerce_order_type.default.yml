@@ -1,0 +1,19 @@
+uuid: def4bfaa-b2f8-41ee-9557-84e171b79d0a
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_shipping
+third_party_settings:
+  commerce_shipping:
+    shipment_type: default
+_core:
+  default_config_hash: zf7YA-OOtWhhrphbf3YOlc49POwC9rePktH9cBavEiA
+label: Default
+id: default
+workflow: order_default
+traits: {  }
+refresh_mode: customer
+refresh_frequency: 300
+sendReceipt: true
+receiptBcc: ''

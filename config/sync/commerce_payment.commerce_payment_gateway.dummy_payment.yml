@@ -1,0 +1,18 @@
+uuid: 40031988-38a0-4923-869e-35a0f4892cea
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_payment_example
+_core:
+  default_config_hash: BF_CvRMs6A8OZCSCKMEqGyUowpgrcgN5Xm_JVxlYZ74
+id: dummy_payment
+label: 'Dummy Payment'
+weight: null
+plugin: example_onsite
+configuration:
+  api_key: MY_AWESOME_API_KEY
+  mode: test
+  payment_method_types:
+    - credit_card
+  redirect_method: post

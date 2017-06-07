@@ -1,0 +1,13 @@
+uuid: 27b2b1cc-78fa-493a-a0dc-585ab8fe4751
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: A22Oc3jG1-TPqLfscSYXTmrufyJnORfOAkS7SGpyqCo
+id: physical_book
+label: 'Physical Book'
+orderItemType: physical_item
+generateTitle: true
+traits:
+  - purchasable_entity_dimensions
+  - purchasable_entity_shippable
