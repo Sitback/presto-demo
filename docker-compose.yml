@@ -1,0 +1,9 @@
+app:
+  build: .
+  dockerfile: Dockerfile
+  extra_hosts:
+    - "hostbox:10.0.2.2"
+  environment:
+    - DNSDOCK_ALIAS=presto-demo.docker
+  volumes:
+    - ./:/var/www
