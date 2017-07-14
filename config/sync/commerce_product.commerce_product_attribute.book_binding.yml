@@ -1,9 +1,0 @@
-uuid: 390b57fd-3043-4920-9388-bbf4f215c22e
-langcode: en
-status: true
-dependencies: {  }
-_core:
-  default_config_hash: Bde3xh8-NYcwcY3Fj9Ch6JBXxu0MDn3jCDK_mHPgMqs
-id: book_binding
-label: 'Book Binding'
-elementType: radios

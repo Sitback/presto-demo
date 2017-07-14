@@ -1,9 +1,0 @@
-uuid: 6f5305da-b1b3-4da9-9124-1a42da072a73
-langcode: en
-status: true
-dependencies: {  }
-_core:
-  default_config_hash: qHBghj-fvQn-67_0aYEh0Wj6EeC4xUs7OHeq9jJdgGU
-id: ebook_format
-label: 'eBook Format'
-elementType: radios

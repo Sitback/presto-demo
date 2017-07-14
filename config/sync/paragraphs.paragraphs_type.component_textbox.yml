@@ -1,9 +1,0 @@
-uuid: 702b9f29-b675-40d8-96c6-ce72ed033bde
-langcode: en
-status: true
-dependencies: {  }
-_core:
-  default_config_hash: g6F6Ly7-XGMVZXzz9oOFhQ9s32cU66rZzxcdv1GH4tw
-id: component_textbox
-label: 'Component: Textbox'
-behavior_plugins: {  }

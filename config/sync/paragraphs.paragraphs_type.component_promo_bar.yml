@@ -1,9 +1,0 @@
-uuid: b863a506-ee5d-449b-8163-2d4bfe947150
-langcode: en
-status: true
-dependencies: {  }
-_core:
-  default_config_hash: W4g4EqaZgBc1gCUV1F9OE5400Q51A8CqejTU2k__ThM
-id: component_promo_bar
-label: 'Component: Promo Bar'
-behavior_plugins: {  }

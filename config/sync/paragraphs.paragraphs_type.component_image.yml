@@ -1,9 +1,0 @@
-uuid: 8a7325c5-f05b-40fe-9045-5943614f7c94
-langcode: en
-status: true
-dependencies: {  }
-_core:
-  default_config_hash: uDENOh8EbM7sJQdU7-ZP4LvSI0G72_1N0RmIFLIiVBg
-id: component_image
-label: 'Component: Image'
-behavior_plugins: {  }
